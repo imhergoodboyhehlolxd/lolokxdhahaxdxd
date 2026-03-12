@@ -1,7 +1,9 @@
 {
   "ModList": [],
   "GroupList": [],
-  "OppsList": [],
+  "OppsList": [
+    1
+  ],
   "Spys": [],
   "AnnoyingGroup": [],
   "Exp": [],
